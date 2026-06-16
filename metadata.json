@@ -1,0 +1,6 @@
+{
+  "name": "IP Webcam",
+  "description": "A sovereign, custom local IP webcam streaming server that streams live video over the local network via HTTP/MJPEG.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
